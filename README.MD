@@ -57,7 +57,7 @@ Swift is included with Xcode on macOS.
 
    ```bash
    swift --version
-```
+   ```
 
 ---
 
